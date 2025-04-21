@@ -1,0 +1,5 @@
+# Ignorar arquivos de checkpoints do Jupyter
+.ipynb_checkpoints/
+
+# Ignorar o arquivo AluraStoreBr.html
+AluraStoreBr.html
